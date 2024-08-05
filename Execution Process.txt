@@ -1,0 +1,9 @@
+Step 1 :- Write the code
+Step 2 :- Upload the code and Dataset on Drive
+Step 3 :- Run the code on Colab by connectting the Drive to Colab
+Step 4 :- Upload the Dataset in code
+Step 8 :- Run the Code
+Step 5 :- Download the Model
+Step 6 :- Create the GPU
+Step 7 :- Put the Model in GPU
+Step 8 :- Run the GPU
